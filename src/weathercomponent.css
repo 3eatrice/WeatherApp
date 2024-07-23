@@ -1,0 +1,19 @@
+/* WeatherComponent.css */
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .weather-info {
+    margin-top: 20px;
+  }
+  
+  .weather-info .card-title {
+    font-size: 1.5rem;
+  }
+  
+  .weather-info .card-text {
+    font-size: 1.2rem;
+  }
+  
